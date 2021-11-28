@@ -2,6 +2,7 @@
 It is an scalable Realtime Chatting Application that provides an interface for multiple user chatting at the same time. We can easily chat with our group of friends by broadcasting the messages on the group . This application is just made for fun activities and we can add more functionalises to this simple application to make it a complex application like WhatsApp. Hence this is just a prototype of how a broadcasting application works .
 
 ----------------------------------------------------------Process to run the app----------------------------------------------------------------------
+
 1 -run nodemon nodeserver/index.js
 
 2 -Install the extension 'live server' for Vs Code. Extension Id - ritwickdey.liveserver
